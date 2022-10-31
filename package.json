@@ -5,8 +5,8 @@
   "scripts": {
     "start": "node app.js"
   },
-  "repository": "git@github.com:isaaclanre/backend-stage-1.git",
-  "author": "Isaac Olanrewaju <isaacolanre@gmail.com>",
+  "repository": "git@github.com:zambogo7/backend-stage-1.git",
+  "author": "Zedekiah Ambogo <zambogo7@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
